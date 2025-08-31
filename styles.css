@@ -85,3 +85,18 @@ p {
   line-height: 1.4;   /* add readability */
   margin: 0;          /* tidy up spacing */
 }
+
+#activity1:hover img {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+
+#activity2:hover img {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
+
+#activity3:hover img {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
